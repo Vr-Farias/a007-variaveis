@@ -6,5 +6,3 @@ let b = bAuxiliar - 15
 
 console.log("O novo valor de a é", a)
 console.log("O novo valor de b é", b) 
-
-//mudando os valores
